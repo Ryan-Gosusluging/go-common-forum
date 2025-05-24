@@ -1,4 +1,4 @@
-module go-common-forum
+module github.com/Ryan-Gosusluging/go-common-forum
 
 go 1.24.0
 
